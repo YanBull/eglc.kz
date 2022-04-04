@@ -1,2 +1,3 @@
 # eglc.kz
-web course at DKU
+Web-Development course at Kazakh-German University, 2019
+
